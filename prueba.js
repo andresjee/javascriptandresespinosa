@@ -8,3 +8,6 @@ let masculino=true
 
 console.log("el valor del numero " +numero + " su nomre es "+ nombre + " con una edad de "+edad + " con un sueldo de "+ sueldo+" cantidad de hijos que desea tener "+hijos);
 console.log(" mi genero es " + " femenino " + femenino+ " MASCULINO "+masculino)
+
+
+
