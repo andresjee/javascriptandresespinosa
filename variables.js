@@ -16,3 +16,5 @@ console.log(num);
 //null
 var sinNada = null;
 console.log(sinNada)
+
+let numero = parseInt(texto, 10);
